@@ -21,6 +21,6 @@ This code defines a simple calculator application using Processing. It allows us
 
 This game is ment for users to take care and play with digital pets. Users can bathe the pets, put them to bed, and clean up their waste.
 
-![RunningDigipet]()
+![RunningDigipet](https://github.com/EmmaWill815/portfolio/blob/main/images/RunningDigipet.png)
 
 [link to Repository](https://github.com/jamromney/Group-1)
