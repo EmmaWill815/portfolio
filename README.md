@@ -14,3 +14,13 @@ This code defines a simple calculator application using Processing. It allows us
 * [Windows](https://github.com/EmmaWill815/portfolio/blob/main/src/Calc/windows-amd64.zip)
 * [MacOS](https://github.com/EmmaWill815/portfolio/blob/main/src/macos-aarch64.zip)
 * [SourceCode](https://github.com/EmmaWill815/portfolio/blob/main/src/calc_code)
+
+## Term 2 Projects
+
+### Digipets (2025)
+
+This game is ment for users to take care and play with digital pets. Users can bathe the pets, put them to bed, and clean up their waste.
+
+![RunningDigipet]()
+
+link to Repository: 
